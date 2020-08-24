@@ -17,4 +17,9 @@ body {
 	margin-bottom: 10px;
 }
 
+.btn {
+	background-color: rgb(91, 248, 99);
+	color: rgb(36, 36, 36);
+}
+
 /* End of base css */
